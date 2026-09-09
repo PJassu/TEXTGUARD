@@ -1,0 +1,6 @@
+{
+  "name": "TEXTGUARD — Smart Academic Text Analyzer",
+  "description": "Summarize, compare, analyze and improve your academic text — completely in your browser with client-side algorithms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
